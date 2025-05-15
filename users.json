@@ -1,0 +1,217 @@
+{
+    "bhumi_13": {
+        "password": "121304",
+        "liked_posts": [
+            {
+                "post_id": 6313,
+                "user": "@naturelover",
+                "image": "travel.jpg"
+            },
+            {
+                "post_id": 8957,
+                "user": "@naturelover",
+                "image": "nature.jpg"
+            },
+            {
+                "post_id": 3146,
+                "user": "@travel_guru",
+                "image": "travel.jpg"
+            }
+        ],
+        "followed_users": [
+            "@naturelover",
+            "@travel_guru"
+        ]
+    },
+    "bhumi_45": {
+        "password": "142536",
+        "liked_posts": [
+            {
+                "post_id": 5469,
+                "user": "@dev_coder",
+                "image": "travel.jpg"
+            },
+            {
+                "post_id": 8887,
+                "user": "@travel_guru",
+                "image": "nature.jpg"
+            },
+            {
+                "post_id": 9511,
+                "user": "@travel_guru",
+                "image": "travel.jpg"
+            }
+        ],
+        "followed_users": [
+            "@dev_coder",
+            "@travel_guru"
+        ]
+    },
+    "bhumi_1213": {
+        "password": "hello_13",
+        "liked_posts": [
+            {
+                "post_id": 1755,
+                "user": "@dev_coder",
+                "image": "art.jpg"
+            },
+            {
+                "post_id": 4470,
+                "user": "@naturelover",
+                "image": "travel.jpg"
+            },
+            {
+                "post_id": 6390,
+                "user": "@dev_coder",
+                "image": "food.jpg"
+            }
+        ],
+        "followed_users": [
+            "@dev_coder"
+        ]
+    },
+    "riya_12singh": {
+        "password": "456987",
+        "liked_posts": [
+            {
+                "post_id": 1151,
+                "user": "@travel_guru",
+                "image": "food.jpg"
+            },
+            {
+                "post_id": 2340,
+                "user": "@dev_coder",
+                "image": "travel.jpg"
+            },
+            {
+                "post_id": 7491,
+                "user": "@travel_guru",
+                "image": "nature.jpg"
+            }
+        ],
+        "followed_users": [
+            "@travel_guru",
+            "@dev_coder"
+        ]
+    },
+    "riya12": {
+        "password": "121212",
+        "liked_posts": [
+            {
+                "post_id": 8214,
+                "user": "@dev_coder",
+                "image": "travel.jpg"
+            },
+            {
+                "post_id": 1156,
+                "user": "@chef_mom",
+                "image": "food.jpg"
+            },
+            {
+                "post_id": 7677,
+                "user": "@chef_mom",
+                "image": "nature.jpg"
+            },
+            {
+                "post_id": 5358,
+                "user": "@travel_guru",
+                "image": "food.jpg"
+            },
+            {
+                "post_id": 3532,
+                "user": "@chef_mom",
+                "image": "food.jpg"
+            },
+            {
+                "post_id": 9488,
+                "user": "@dev_coder",
+                "image": "nature.jpg"
+            }
+        ],
+        "followed_users": [
+            "@dev_coder",
+            "@chef_mom",
+            "@travel_guru"
+        ]
+    },
+    "raj_04_singh": {
+        "password": "12@_13",
+        "liked_posts": [
+            {
+                "post_id": 6211,
+                "user": "@chef_mom",
+                "image": "food.jpg"
+            },
+            {
+                "post_id": 8076,
+                "user": "@naturelover",
+                "image": "travel.jpg"
+            },
+            {
+                "post_id": 9663,
+                "user": "@art_queen",
+                "image": "art.jpg"
+            },
+            {
+                "post_id": 8135,
+                "user": "@travel_guru",
+                "image": "nature.jpg"
+            },
+            {
+                "post_id": 4083,
+                "user": "@dev_coder",
+                "image": "art.jpg"
+            }
+        ],
+        "followed_users": [
+            "@chef_mom",
+            "@art_queen",
+            "@travel_guru"
+        ]
+    },
+    "jiya_kapoor": {
+        "password": "141414",
+        "liked_posts": [
+            {
+                "post_id": 1666,
+                "user": "@dev_coder",
+                "image": "travel.jpg"
+            },
+            {
+                "post_id": 4251,
+                "user": "@dev_coder",
+                "image": "code.jpg"
+            },
+            {
+                "post_id": 1438,
+                "user": "@chef_mom",
+                "image": "nature.jpg"
+            },
+            {
+                "post_id": 1164,
+                "user": "@art_queen",
+                "image": "art.jpg"
+            },
+            {
+                "post_id": 5298,
+                "user": "@naturelover",
+                "image": "food.jpg"
+            },
+            {
+                "post_id": 7294,
+                "user": "@art_queen",
+                "image": "art.jpg"
+            },
+            {
+                "post_id": 4049,
+                "user": "@travel_guru",
+                "image": "food.jpg"
+            }
+        ],
+        "followed_users": [
+            "@dev_coder",
+            "@art_queen",
+            "@travel_guru"
+        ]
+    }
+}
